@@ -4,8 +4,6 @@
 
 I am Keejmil, a developer.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <b>my website</b>
 - 🌱 I’m currently learning <b>everything, especially web frameworks and SQL databases</b>
 - 💬 Ask me about <b>DiscordJS</b>
